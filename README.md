@@ -89,4 +89,3 @@ Para executar este código:
 
 bash
 pip install tensorflow matplotlib  
-Copie o código para um arquivo Python e execute-o.
